@@ -1,4 +1,4 @@
-#import "RCTImageLoader.h"
+#import <React/RCTImageLoader.h>
 
 @interface DBAWebpImageDecoder : NSObject <RCTImageDataDecoder>
 
